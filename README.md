@@ -28,7 +28,7 @@ git clone https://github.com/nyaliti/weather_app
 
 
 <h3> ScreenShots </h3>  
-<img src = "my_weatherapp" alt="Sample Image">
+<img src = "my_weatherapp.png" alt="Sample Image">
 <br>
 <video controls autoplay>
   <source src="sample.mp4" type="video/mp4">
